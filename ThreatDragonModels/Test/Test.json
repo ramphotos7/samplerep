@@ -1,0 +1,16 @@
+{
+  "summary": {
+    "title": "Test",
+    "owner": "test"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "testdia",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
